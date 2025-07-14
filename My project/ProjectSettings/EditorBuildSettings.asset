@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/tron.unity
+    guid: 28924127a5b1a4b8e8afd92095f09c16
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 79e736b4c655d4d49a93aae0aca7dde8, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b28f14c0c3e5e41509d7c9f4b5bb3699, type: 2}
