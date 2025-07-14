@@ -910,3 +910,23 @@ AssetImportParameters requested are different than current active one (requested
   custom:scripting/precompiled-assembly-types:Unity.Plastic.Newtonsoft.Json:  -> c587937513b02a3c784dfd4229f1b707
   custom:scripting/precompiled-assembly-types:Unity.Plastic.Antlr3.Runtime:  -> 6770513df7cfb4050a1e6f0a02312f5b
   custom:scripting/precompiled-assembly-types:unityplastic:  -> 26b58a4695bcfc4bd2b1d359ee452308
+========================================================================
+Received Import Request.
+  Time since last request: 1310.301927 seconds.
+  path: Assets/Prefabs/XR Origin (XR Rig).prefab
+  artifactKey: Guid(c1ef2e57e71f947e79b6044cd76a7904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/XR Origin (XR Rig).prefab using Guid(c1ef2e57e71f947e79b6044cd76a7904) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '327d3b9f236920c41b8e6e0ecf595c29') in 3.356947 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 56
+========================================================================
+Received Import Request.
+  Time since last request: 9.637774 seconds.
+  path: Assets/Prefabs/XR Origin (XR Rig).prefab
+  artifactKey: Guid(c1ef2e57e71f947e79b6044cd76a7904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/XR Origin (XR Rig).prefab using Guid(c1ef2e57e71f947e79b6044cd76a7904) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5707f9017590d96b1e9d969f8d5fedbc') in 0.075636 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 56
