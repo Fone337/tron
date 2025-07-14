@@ -440,3 +440,21 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:scripting/monoscript/fileName/ClimbTeleportDestinationIndicator.cs: 235141168ed1691dbdc32ea17f8778af -> 
   custom:scripting/monoscript/fileName/DynamicMoveProvider.cs: 64ab64daf2a926326dc8263ed59a5ef2 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 265.719162 seconds.
+  path: Assets/Scenes/tron.unity
+  artifactKey: Guid(28924127a5b1a4b8e8afd92095f09c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tron.unity using Guid(28924127a5b1a4b8e8afd92095f09c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8d38ddd2f87d6a35323b56c36588c76e') in 0.161128 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.058447 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f4161d185a68bc6d31c204b24fc44759') in 0.012470 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
