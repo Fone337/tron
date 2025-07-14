@@ -394,3 +394,13 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:scripting/monoscript/fileName/ClimbTeleportDestinationIndicator.cs: 235141168ed1691dbdc32ea17f8778af -> 
   custom:scripting/monoscript/fileName/DynamicMoveProvider.cs: 64ab64daf2a926326dc8263ed59a5ef2 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 549.476286 seconds.
+  path: Assets/SkyBoxes/SkyBoxTron.mat
+  artifactKey: Guid(b41dc62a4f12d40cb97a69b34dfc7baf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBoxes/SkyBoxTron.mat using Guid(b41dc62a4f12d40cb97a69b34dfc7baf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ab162823dbde85c92e81fbec7c9fc8fb') in 3.568292 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2

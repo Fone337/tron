@@ -458,3 +458,13 @@ Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b459407
  -> (artifact id: 'f4161d185a68bc6d31c204b24fc44759') in 0.012470 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 239.561426 seconds.
+  path: Assets/SkyBoxes/M3_Cinematic_Realism_hdri-exr_A_vast_digital_landscape_1601725909_14011242.exr
+  artifactKey: Guid(92aebf66429564dc0913093ae075b67c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBoxes/M3_Cinematic_Realism_hdri-exr_A_vast_digital_landscape_1601725909_14011242.exr using Guid(92aebf66429564dc0913093ae075b67c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4ca9a378e9fab4783df6cc2bdfdb06a4') in 3.211197 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
