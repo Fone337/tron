@@ -128,6 +128,7 @@
 -define:INPUT_SYSTEM_1_1_OR_NEWER
 -define:ANIMATION_MODULE_PRESENT
 -define:PHYSICS2D_MODULE_PRESENT
+-define:BURST_PRESENT
 -define:XR_MANAGEMENT_4_0_OR_NEWER
 -define:OPENXR_1_6_OR_NEWER
 -define:CSHARP_7_OR_LATER
@@ -346,6 +347,7 @@
 -r:"Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.Burst.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.InputSystem.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.Mathematics.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.CoreUtils.ref.dll"
