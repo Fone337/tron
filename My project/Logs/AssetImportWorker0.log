@@ -3585,3 +3585,22 @@ WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing tex
  -> (artifact id: 'f1e28af32a05f6b3a35c7d32278be72a') in 0.650954 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2776.704958 seconds.
+  path: Assets/SkyBoxes/SkyBoxTron.mat
+  artifactKey: Guid(b41dc62a4f12d40cb97a69b34dfc7baf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBoxes/SkyBoxTron.mat using Guid(b41dc62a4f12d40cb97a69b34dfc7baf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '469219bd7a146454b21858d7d7b0bd72') in 2.804464 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 6809.253487 seconds.
+  path: Assets/UniversalRenderPipelineGlobalSettings.asset
+  artifactKey: Guid(5d71cbd9b1bb54ef597a706001e77706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineGlobalSettings.asset using Guid(5d71cbd9b1bb54ef597a706001e77706) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a80024d28344ad24d37d0c072ede9474') in 0.093386 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
